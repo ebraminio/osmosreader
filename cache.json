@@ -1,0 +1,477 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T05:25:18.000Z",
+          "wordCount": 310,
+          "title": "v1.12.0"
+        }
+      ]
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=361001",
+          "author": "Adam Rackis",
+          "description": "The VitePWA plugin from Anthony Fu is a fantastic tool for your Vite-powered sites. It helps you add a service worker that handles:\noffline support\ncaching assets and content\nprompting the user when new content is available\n…and other goodies!\n…\nMaking a Site Work Offline Using the VitePWA Plugin originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/vitepwa-plugin-offline-service-worker/",
+          "publishedOn": "2022-01-18T14:30:26.000Z",
+          "wordCount": 3350,
+          "title": "Making a Site Work Offline Using the VitePWA Plugin"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361047",
+          "author": "Louis Lazaris",
+          "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/hottest-front-end-tools-in-2021/",
+          "publishedOn": "2022-01-17T15:13:26.000Z",
+          "wordCount": 6239,
+          "title": "What Were the Hottest Front-End Tools in 2021?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360928",
+          "author": "Chris Coyier",
+          "description": "Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …\nUsing the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-me-not-bookmarklet/",
+          "publishedOn": "2022-01-15T00:06:56.000Z",
+          "wordCount": 1272,
+          "title": "Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360864",
+          "author": "Chris Coyier",
+          "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
+          "publishedOn": "2022-01-14T18:15:03.000Z",
+          "wordCount": 843,
+          "title": "Mondrian Art in CSS From 5 Code Artists"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360781",
+          "author": "Austin Crim",
+          "description": "The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …\nHow to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/making-your-first-custom-svelte-transition/",
+          "publishedOn": "2022-01-14T15:24:19.000Z",
+          "wordCount": 1571,
+          "title": "How to Build Your First Custom Svelte Transition"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360939",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Accessibility is one of those things! Here’s a list of related links to other articles that I’ve been saving up and …\n8 Helpful Accessibility Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/8-accessibility-links-january-2022/",
+          "publishedOn": "2022-01-13T20:57:41.000Z",
+          "wordCount": 786,
+          "title": "8 Helpful Accessibility Links for January 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360423",
+          "author": "Chris Coyier",
+          "description": "Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. \nLet’s focus on mixins here. …\nA Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/sass-default-parameters/",
+          "publishedOn": "2022-01-13T15:17:28.000Z",
+          "wordCount": 693,
+          "title": "A Practical Tip For Using Sass Default Parameters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361233",
+          "author": "Chris Coyier",
+          "description": "Hot off the presses from Devon Govett, creator of Parcel, is Parcel CSS:\nA CSS parser, transformer, and minifier written in Rust.\n\nNice. The CSS world could use a little processing shake up like this.\nI just wrote a …\nParcel CSS: A New CSS Parser, Transformer, and Minifier originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/parcel-css/",
+          "publishedOn": "2022-01-12T21:10:53.000Z",
+          "wordCount": 1294,
+          "title": "Parcel CSS: A New CSS Parser, Transformer, and Minifier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360607",
+          "author": "Chris Coyier",
+          "description": "It’s a god-damned miracle to me that open source is as robust as it is in tech. Consider the options. You could have a job (or be entrepreneurial) with your coding skills and likely be paid quite well. Or, you …\nOpen Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/open-source-sustainability/",
+          "publishedOn": "2022-01-12T20:51:49.000Z",
+          "wordCount": 1017,
+          "title": "Open Source & Sustainability"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360168",
+          "author": "Jhey Tompkins",
+          "description": "You know how you can get cardboard boxes that come totally flat? You fold ‘em up and tape ‘em to make them into a useful box. Then when it’s time to recycle them, you cut them back apart to flatten …\nHow to Make a Pure CSS 3D Package Toggle originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/how-to-make-a-pure-css-3d-package-toggle/",
+          "publishedOn": "2022-01-12T15:29:38.000Z",
+          "wordCount": 3149,
+          "title": "How to Make a Pure CSS 3D Package Toggle"
+        },
+        {
+          "id": "https://css-tricks.com/?p=361191",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nNetlify is amazing at static file hosting, but it’s really so much more than that. You can build any sort of website, even highly dynamic apps, with the Jamstack approach and static file hosting …\nNetlify Identity, a Key Aspect to Jamstack Development originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/netlify-identity/",
+          "publishedOn": "2022-01-12T14:13:00.000Z",
+          "wordCount": 581,
+          "title": "Netlify Identity, a Key Aspect to Jamstack Development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360490",
+          "author": "Chris Coyier",
+          "description": "Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …\nWhat Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/",
+          "publishedOn": "2022-01-11T23:18:56.000Z",
+          "wordCount": 977,
+          "title": "What Would it Take to Prevent CSS Tooltips From Overflowing?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359243",
+          "author": "Adam Rackis",
+          "description": "Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.\nThis post will walk through the process of converting an existing …\nAdding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adding-vite-to-your-existing-web-app/",
+          "publishedOn": "2022-01-11T15:38:06.000Z",
+          "wordCount": 3005,
+          "title": "Adding Vite to Your Existing Web App"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360061",
+          "author": "Chris Coyier",
+          "description": "Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:\nKey: subtitle / Value: They are \n…\nHow to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/use-custom-fields-in-wordpress/",
+          "publishedOn": "2022-01-11T00:41:48.000Z",
+          "wordCount": 2374,
+          "title": "How to Use Native Custom Fields in WordPress (and 5 Useful Examples)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360873",
+          "author": "Chris Coyier",
+          "description": "Raw Chromium, perhaps?\nSo, Chrome is based on Chromium which is open-source. Chrome is Chromium with Google’s extra stuff on top of it. What extra stuff? Kinda lots! A few years ago, The Verge published “Microsoft reveals all the …\nWhat is Chromium Without Chrome on Top? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/what-is-chromium-without-chrome-on-top/",
+          "publishedOn": "2022-01-10T22:02:49.000Z",
+          "wordCount": 1035,
+          "title": "What is Chromium Without Chrome on Top?"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
+          "author": "hello@smashingmagazine.com (Anton Tyschenko)",
+          "description": "Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies) related to different occasions and themes. We hope that with this icon set, everyone will be able to find their own use case for these icons in particular. Today, we present to you three icon sets designed by the creative folks at GraphicSurf — all free for personal and commercial use.",
+          "link": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
+          "publishedOn": "2022-01-18T12:00:00.000Z",
+          "wordCount": 818,
+          "title": "Freebie: Wayfinding Icon Sets (164 Icons, PNG, SVG, AI, EPS)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/27d4ee4d-0893-4ef6-b48a-435007089494/wayfinding-icon-preview.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "We’ll explore fluid typography principles, use-cases, implementation with CSS clamp() and an interactive fluid typography calculator.",
+          "link": "https://smashingmagazine.com/2022/01/modern-fluid-typography-css-clamp/",
+          "publishedOn": "2022-01-17T13:00:00.000Z",
+          "wordCount": 4018,
+          "title": "Modern Fluid Typography Using CSS Clamp",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f12f5a3d-f679-4b6b-b9c2-cb5a9d9166ae/modern-fluid-typography-css-clamp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In [Part 1](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/), Luis Ouriach shared advice he wished he had when starting out in his career. In this second and last part of this series, Luis continues sharing tips that helped him grow and become a better designer throughout the years.",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part2/",
+          "publishedOn": "2022-01-14T15:00:00.000Z",
+          "wordCount": 3569,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b0e9621-b939-439d-a812-69a4eb7d68ff/tips-aspiring-designer-beginners-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "author": "hello@smashingmagazine.com (Daniel Don)",
+          "description": "If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.",
+          "link": "https://smashingmagazine.com/2022/01/building-web-code-editor/",
+          "publishedOn": "2022-01-13T11:30:00.000Z",
+          "wordCount": 5051,
+          "title": "Building A Web Code Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7db33e0-a76e-4f4f-959f-be0f8898784f/building-web-code-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Accessibility must be a permanent program within organizations, much like security. In this article, Kate Kalcevich shares tips on which skills and questions to keep in mind when hiring for digital accessibility roles.",
+          "link": "https://smashingmagazine.com/2022/01/how-hire-digital-accessibility-roles/",
+          "publishedOn": "2022-01-12T10:30:00.000Z",
+          "wordCount": 3853,
+          "title": "How To Hire For Digital Accessibility Roles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/99b1af95-05d8-48ce-9086-171a59ba27f0/how-hire-digital-accessibility-roles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
+          "description": "In this article, we’ll be taking a closer look at two gradients: `conic-gradient` and `radial-gradient`. You’ll see how each one of them works in detail, what the differences and similarities are between them, how and where to use them, and some use cases for each.",
+          "link": "https://smashingmagazine.com/2022/01/css-radial-conic-gradient/",
+          "publishedOn": "2022-01-10T12:30:00.000Z",
+          "wordCount": 2303,
+          "title": "A Deep CSS Dive Into Radial And Conic Gradients",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b1eea9e-877a-4da7-b531-537a97a44613/css-radial-conic-gradient.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "author": "hello@smashingmagazine.com (Scott Himmer)",
+          "description": "Product roadmaps are often treated as a series of checkboxes. But they are more than that. In this article, Scott Himmer explains how internal partnerships, research, design systems, and regular touch bases can help make sure that your product roadmap is a successful one.",
+          "link": "https://smashingmagazine.com/2022/01/changing-tire-on-moving-car/",
+          "publishedOn": "2022-01-07T16:00:00.000Z",
+          "wordCount": 4002,
+          "title": "Changing A Tire On A Moving Car (Or How To Improve Product Roadmaps)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/31db8ed2-e433-46b6-9b8e-ab622b10fce0/changing-tire-on-moving-car.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "In this article (the first part in a series of two), Luis Ouriach shares advice that he wishes he has when starting out in his career. These tips come from his experience as a user interface and product designer for close to ten years, and if you’re starting just now, then read on!",
+          "link": "https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/",
+          "publishedOn": "2022-01-05T13:00:00.000Z",
+          "wordCount": 4073,
+          "title": "Ten Tips For Aspiring Designer Beginners (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/954de2dd-e9df-43de-9b9a-bb24c1f8cf0b/tips-aspiring-designer-beginners-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
+          "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
+          "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "publishedOn": "2022-01-03T13:00:00.000Z",
+          "wordCount": 2637,
+          "title": "Composition-Based Design System In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
+          "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
+          "publishedOn": "2021-12-31T09:00:00.000Z",
+          "wordCount": 2531,
+          "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
+          "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
+          "publishedOn": "2021-12-29T10:30:00.000Z",
+          "wordCount": 2463,
+          "title": "How To Price Projects And Manage Scope Creep",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
+          "author": "hello@smashingmagazine.com (Paulina Hetman)",
+          "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
+          "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
+          "publishedOn": "2021-12-27T10:30:00.000Z",
+          "wordCount": 4240,
+          "title": "Building Gatsby Themes For WordPress-Powered Websites",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
+          "author": "hello@smashingmagazine.com (Alyssa Holland)",
+          "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
+          "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
+          "publishedOn": "2021-12-23T11:00:00.000Z",
+          "wordCount": 2617,
+          "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
+          "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "publishedOn": "2021-12-22T10:00:00.000Z",
+          "wordCount": 4195,
+          "title": "Useful UX Guidelines, Tools And Resources",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
+          "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+          "publishedOn": "2021-12-20T05:30:00.000Z",
+          "wordCount": 6030,
+          "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "61dcd402b837d507ba09f7d7",
+          "author": "Madison Kanna",
+          "description": "When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript Array Method 1: Use index positioning Use index positioning if you know",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/",
+          "publishedOn": "2022-01-17T21:21:48.000Z",
+          "wordCount": null,
+          "title": "How to Get the Last Item in an Array in JavaScript"
+        },
+        {
+          "id": "61e07e8ab837d507ba0a214c",
+          "author": "Spruce Emmanuel",
+          "description": "What plans would you make if you knew it was going to rain tomorrow? This can be a crucial question to ask yourself when it comes to planning your personal and day-to-day business activities. For example, I have a friend who runs an app-based laundry business in Lagos, Nigeria. He",
+          "link": "https://www.freecodecamp.org/news/visualize-weather-data-with-d3js/",
+          "publishedOn": "2022-01-17T16:59:10.000Z",
+          "wordCount": null,
+          "title": "How to Visualize Weather Data with D3.js"
+        },
+        {
+          "id": "61e011e0b837d507ba0a15d2",
+          "author": "Kolade Chris",
+          "description": "Having a good landing page for your website is important. It can help drive customers to your site where they'll find your products and services and hopefully take action. In this text-based tutorial, I’m going to take you through how to make a landing page for a boxing TV channel",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/",
+          "publishedOn": "2022-01-17T16:56:05.000Z",
+          "wordCount": 5919,
+          "title": "Web Development Project – How to Make a Landing Page with HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "61dff97db837d507ba0a12db",
+          "author": "Ihechikara Vincent Abba",
+          "description": "File Explorer is an application for managing files. It is also known as Windows Explorer. It is one of the built-in applications in the Microsoft Windows operating system.  File Explorer is extremely important, as it helps you oraganize and manage files in your PC. Sometimes File Explorer stops responding",
+          "link": "https://www.freecodecamp.org/news/file-explorer-not-responding-fixed-on-windows-10-pc/",
+          "publishedOn": "2022-01-14T22:39:28.000Z",
+          "wordCount": null,
+          "title": "File Explorer Not Responding – Fixed on Windows 10 PC"
+        },
+        {
+          "id": "61dd9481b837d507ba09fca9",
+          "author": "Reed Barger",
+          "description": "I've composed this guide to give you a practical overview of perhaps the most important React library you will use to build 90% of your projects: Next.js. The goal of this tutorial is to get you started using Next.js as easily as possible. This is not a complete guide on",
+          "link": "https://www.freecodecamp.org/news/nextjs-tutorial/",
+          "publishedOn": "2022-01-14T21:39:10.000Z",
+          "wordCount": null,
+          "title": "Get Started with Next.js – The React Library Your Project Needs"
+        },
+        {
+          "id": "61dfe267b837d507ba0a10e9",
+          "author": "Temani Afif",
+          "description": "If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/",
+          "publishedOn": "2022-01-14T21:11:49.000Z",
+          "wordCount": 1930,
+          "title": "How to Create a CSS-Only Loader Using One Element"
+        },
+        {
+          "id": "61de055cb837d507ba0a011c",
+          "author": "Pelumi Akintokun",
+          "description": "A code Snippet is a programming term that refers to a small portion of re-usable source code, machine code, or text. Snippets help programmers reduce the time it takes to type in repetitive information while coding. Code Snippets are a feature on most text editors, code editors, and IDEs. In",
+          "link": "https://www.freecodecamp.org/news/create-your-own-custom-code-snippets/",
+          "publishedOn": "2022-01-14T18:46:57.000Z",
+          "wordCount": null,
+          "title": "How to Create Your Own Custom Code Snippets Right in Your Code Editor"
+        },
+        {
+          "id": "61dbe879d2d9de084285fb65",
+          "author": "mahesh patidar",
+          "description": "The z-index property might seem simple, but it's not just about using a positive or negative integer. There's a lot more going on under the hood, and some quirks can cause problems when you're working with it. In this article, we're going to dive deep into the z-index property and",
+          "link": "https://www.freecodecamp.org/news/how-the-z-index-property-works-under-the-hood/",
+          "publishedOn": "2022-01-14T11:06:00.000Z",
+          "wordCount": null,
+          "title": "How the z-index Property Works Under the Hood"
+        },
+        {
+          "id": "61dc4ac1d2d9de084285fed6",
+          "author": "Nitheesh Poojary",
+          "description": "Kubernetes is a container orchestration platform that helps you manage containers at scale. I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you. Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance",
+          "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
+          "publishedOn": "2022-01-14T01:14:02.000Z",
+          "wordCount": 3532,
+          "title": "Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam"
+        },
+        {
+          "id": "61e081cfb837d507ba0a2179",
+          "author": "Beau Carnes",
+          "description": "Have you heard of \"Netflix and Chill\"? Instead, try \"Netflix and Code\". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source web",
+          "link": "https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/",
+          "publishedOn": "2022-01-13T19:54:39.000Z",
+          "wordCount": null,
+          "title": "Create a Netflix Clone with Django and Tailwind CSS"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.12.0"
+}
