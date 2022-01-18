@@ -36,7 +36,7 @@
           "description": "Another year has passed and once again I’ve had the privilege of going through the Web Tools Weekly newsletter archives from the past 12 months to hunt down the front-end tools that readers found to be the most interesting during …\nWhat Were the Hottest Front-End Tools in 2021? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/hottest-front-end-tools-in-2021/",
           "publishedOn": "2022-01-17T15:13:26.000Z",
-          "wordCount": 6239,
+          "wordCount": 6302,
           "title": "What Were the Hottest Front-End Tools in 2021?"
         },
         {
@@ -54,7 +54,7 @@
           "description": "Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …\nMondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/",
           "publishedOn": "2022-01-14T18:15:03.000Z",
-          "wordCount": 843,
+          "wordCount": 867,
           "title": "Mondrian Art in CSS From 5 Code Artists"
         },
         {
@@ -81,7 +81,7 @@
           "description": "Sass offers functions and mixins that accept parameters. You can use Sass default parameters, that is, parameters that have a value even if you don’t provide them when the function or mixin is called. \nLet’s focus on mixins here. …\nA Practical Tip For Using Sass Default Parameters originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/sass-default-parameters/",
           "publishedOn": "2022-01-13T15:17:28.000Z",
-          "wordCount": 693,
+          "wordCount": 707,
           "title": "A Practical Tip For Using Sass Default Parameters"
         },
         {
@@ -386,7 +386,7 @@
           "description": "When you’re programming in JavaScript, you might need to get the last item in an array. In this tutorial, we’ll go over two different ways to do this. How to Get the Last Item in a JavaScript Array Method 1: Use index positioning Use index positioning if you know",
           "link": "https://www.freecodecamp.org/news/how-to-get-the-last-item-in-an-array-in-javascript/",
           "publishedOn": "2022-01-17T21:21:48.000Z",
-          "wordCount": null,
+          "wordCount": 782,
           "title": "How to Get the Last Item in an Array in JavaScript"
         },
         {
@@ -431,7 +431,7 @@
           "description": "If you have a website, it's helpful to have a loader so users can tell something is happening once they've clicked a link or button.  You can use this loader component in a lot of places, and it should be as simple as possible.  In this post, we",
           "link": "https://www.freecodecamp.org/news/how-to-create-a-css-only-loader/",
           "publishedOn": "2022-01-14T21:11:49.000Z",
-          "wordCount": 1930,
+          "wordCount": null,
           "title": "How to Create a CSS-Only Loader Using One Element"
         },
         {
@@ -458,7 +458,7 @@
           "description": "Kubernetes is a container orchestration platform that helps you manage containers at scale. I recently passed my certified Kubernetes administrator exam, and I would like to share my learning experience and resources with you. Should You Get Kubernetes Certified? There are mixed opinions in the tech industry about the importance",
           "link": "https://www.freecodecamp.org/news/certified-kubernetes-administrator-study-guide-cka/",
           "publishedOn": "2022-01-14T01:14:02.000Z",
-          "wordCount": 3532,
+          "wordCount": null,
           "title": "Certified Kubernetes Administrator Study Guide – Prepare for the CKA Exam"
         },
         {
@@ -469,6 +469,94 @@
           "publishedOn": "2022-01-13T19:54:39.000Z",
           "wordCount": null,
           "title": "Create a Netflix Clone with Django and Tailwind CSS"
+        }
+      ]
+    },
+    {
+      "title": "The GitHub Blog",
+      "feedUrl": "https://github.blog/feed/",
+      "siteUrl": "https://github.blog",
+      "articles": [
+        {
+          "id": "https://github.blog/?p=62289",
+          "author": "Lee Reilly",
+          "description": "Here are the top games created in our annual game jam as rated and reviewed by the developers that made them. Game On! 🤘🏻",
+          "link": "https://github.blog/2022-01-13-top-entries-from-game-off-2021/",
+          "publishedOn": "2022-01-13T20:23:31.000Z",
+          "wordCount": 1948,
+          "title": "Top-rated entries from Game Off 2021"
+        },
+        {
+          "id": "https://github.blog/?p=62257",
+          "author": "Evi Liu",
+          "description": "From answering questions about a new release to fielding feature requests, here’s how five open source communities use GitHub Discussions.",
+          "link": "https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/",
+          "publishedOn": "2022-01-13T17:14:21.000Z",
+          "wordCount": 1250,
+          "title": "How five open source communities are using GitHub Discussions"
+        },
+        {
+          "id": "https://github.blog/?p=62411",
+          "author": "Mike Hanley",
+          "description": "My colleague Stormy Peters and I are proud to represent GitHub at the White House’s Open Source Software Security Summit to share how securing open source begins by empowering developers.",
+          "link": "https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/",
+          "publishedOn": "2022-01-13T10:00:24.000Z",
+          "wordCount": 893,
+          "title": "The Open Source Software Security Summit: securing the world’s code together"
+        },
+        {
+          "id": "https://github.blog/?p=62370",
+          "author": "Taehun Kim",
+          "description": "Learn how the GitHub Mobile Team automates their release process with GitHub Actions.",
+          "link": "https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/",
+          "publishedOn": "2022-01-12T17:56:11.000Z",
+          "wordCount": 1641,
+          "title": "How we ship GitHub Mobile every week"
+        },
+        {
+          "id": "https://github.blog/?p=62275",
+          "author": "Scott Sanders",
+          "description": "In December, we experienced no incidents resulting in service downtime to our core services.",
+          "link": "https://github.blog/2022-01-05-github-availability-report-december-2021/",
+          "publishedOn": "2022-01-05T21:34:45.000Z",
+          "wordCount": 230,
+          "title": "GitHub Availability Report: December 2021"
+        },
+        {
+          "id": "https://github.blog/?p=62222",
+          "author": "Xavier René-Corail",
+          "description": "The GitHub Security Lab’s CodeQL bounty program fuels GitHub Advanced Security with queries written by the open source community.",
+          "link": "https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/",
+          "publishedOn": "2022-01-05T18:18:04.000Z",
+          "wordCount": 1259,
+          "title": "How the community powers GitHub Advanced Security with CodeQL queries"
+        },
+        {
+          "id": "https://github.blog/?p=62241",
+          "author": "Becca Crockett",
+          "description": "As the year winds down, we're highlighting some of the incredible work from GitHub’s engineers, product teams, and security researchers.",
+          "link": "https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/",
+          "publishedOn": "2021-12-28T17:00:37.000Z",
+          "wordCount": 544,
+          "title": "GitHub’s top 10 blog posts of 2021"
+        },
+        {
+          "id": "https://github.blog/?p=62205",
+          "author": "Rose Coogan",
+          "description": "GitHub was honored to contribute to the Santa Clara Principles on Transparency and Accountability in Content Moderation 2.0.",
+          "link": "https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/",
+          "publishedOn": "2021-12-21T17:55:56.000Z",
+          "wordCount": 1162,
+          "title": "How GitHub contributed to the Santa Clara Principles update"
+        },
+        {
+          "id": "https://github.blog/?p=62090",
+          "author": "Alvaro Munoz",
+          "description": "In this post, I’ll discuss how to apply OWASP Proactive Control C2: Leverage security frameworks and libraries.",
+          "link": "https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/",
+          "publishedOn": "2021-12-20T17:47:15.000Z",
+          "wordCount": 2209,
+          "title": "How to leverage security frameworks and libraries for secure code"
         }
       ]
     }

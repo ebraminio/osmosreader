@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-18T16:33:43.829Z</id>
+    <id>https://ebraminio.github.io/osmosreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T16:33:43.829Z</updated>
+    <updated>2022-01-18T16:40:21.537Z</updated>
     <generator>osmosfeed 1.12.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://ebraminio.github.io/osmosreader/index.html"/>
+    <link rel="self" href="https://ebraminio.github.io/osmosreader/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Making a Site Work Offline Using the VitePWA Plugin]]></title>
         <id>https://css-tricks.com/?p=361001</id>
@@ -197,6 +198,16 @@ How to Build Your First Custom Svelte Transition originally published on CSS-Tri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top-rated entries from Game Off 2021]]></title>
+        <id>https://github.blog/?p=62289</id>
+        <link href="https://github.blog/2022-01-13-top-entries-from-game-off-2021/"/>
+        <updated>2022-01-13T20:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Here are the top games created in our annual game jam as rated and reviewed by the developers that made them. Game On! 🤘🏻]]></summary>
+        <author>
+            <name>Lee Reilly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create a Netflix Clone with Django and Tailwind CSS]]></title>
         <id>61e081cfb837d507ba0a2179</id>
         <link href="https://www.freecodecamp.org/news/create-a-netflix-clone-with-django-and-tailwind-css/"/>
@@ -204,6 +215,16 @@ How to Build Your First Custom Svelte Transition originally published on CSS-Tri
         <summary type="html"><![CDATA[Have you heard of "Netflix and Chill"? Instead, try "Netflix and Code". Code your own Netflix clone! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a Netflix clone using Django and Tailwind CSS. Django is a Python-based free and open-source web]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How five open source communities are using GitHub Discussions]]></title>
+        <id>https://github.blog/?p=62257</id>
+        <link href="https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/"/>
+        <updated>2022-01-13T17:14:21.000Z</updated>
+        <summary type="html"><![CDATA[From answering questions about a new release to fielding feature requests, here’s how five open source communities use GitHub Discussions.]]></summary>
+        <author>
+            <name>Evi Liu</name>
         </author>
     </entry>
     <entry>
@@ -226,6 +247,16 @@ A Practical Tip For Using Sass Default Parameters originally published on CSS-Tr
         <summary type="html"><![CDATA[If you’re a developer who’s thinking about building a platform that requires a code editor in one form or another, then this article is for you. This article explains how to create a web code editor that displays the result in real time with the help of some HTML, CSS and JavaScript.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Don)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Open Source Software Security Summit: securing the world’s code together]]></title>
+        <id>https://github.blog/?p=62411</id>
+        <link href="https://github.blog/2022-01-13-open-source-software-security-summit-securing-the-worlds-code-together/"/>
+        <updated>2022-01-13T10:00:24.000Z</updated>
+        <summary type="html"><![CDATA[My colleague Stormy Peters and I are proud to represent GitHub at the White House’s Open Source Software Security Summit to share how securing open source begins by empowering developers.]]></summary>
+        <author>
+            <name>Mike Hanley</name>
         </author>
     </entry>
     <entry>
@@ -252,6 +283,16 @@ Parcel CSS: A New CSS Parser, Transformer, and Minifier originally published on 
 Open Source & Sustainability originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we ship GitHub Mobile every week]]></title>
+        <id>https://github.blog/?p=62370</id>
+        <link href="https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/"/>
+        <updated>2022-01-12T17:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Learn how the GitHub Mobile Team automates their release process with GitHub Actions.]]></summary>
+        <author>
+            <name>Taehun Kim</name>
         </author>
     </entry>
     <entry>
@@ -370,6 +411,26 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Availability Report: December 2021]]></title>
+        <id>https://github.blog/?p=62275</id>
+        <link href="https://github.blog/2022-01-05-github-availability-report-december-2021/"/>
+        <updated>2022-01-05T21:34:45.000Z</updated>
+        <summary type="html"><![CDATA[In December, we experienced no incidents resulting in service downtime to our core services.]]></summary>
+        <author>
+            <name>Scott Sanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the community powers GitHub Advanced Security with CodeQL queries]]></title>
+        <id>https://github.blog/?p=62222</id>
+        <link href="https://github.blog/2022-01-05-how-the-community-powers-github-advanced-security-with-codeql-queries/"/>
+        <updated>2022-01-05T18:18:04.000Z</updated>
+        <summary type="html"><![CDATA[The GitHub Security Lab’s CodeQL bounty program fuels GitHub Advanced Security with queries written by the open source community.]]></summary>
+        <author>
+            <name>Xavier René-Corail</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ten Tips For Aspiring Designer Beginners (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/</id>
         <link href="https://smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/"/>
@@ -410,6 +471,16 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub’s top 10 blog posts of 2021]]></title>
+        <id>https://github.blog/?p=62241</id>
+        <link href="https://github.blog/2021-12-28-githubs-top-10-blog-posts-of-2021/"/>
+        <updated>2021-12-28T17:00:37.000Z</updated>
+        <summary type="html"><![CDATA[As the year winds down, we're highlighting some of the incredible work from GitHub’s engineers, product teams, and security researchers.]]></summary>
+        <author>
+            <name>Becca Crockett</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
         <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
         <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
@@ -437,6 +508,26 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GitHub contributed to the Santa Clara Principles update]]></title>
+        <id>https://github.blog/?p=62205</id>
+        <link href="https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/"/>
+        <updated>2021-12-21T17:55:56.000Z</updated>
+        <summary type="html"><![CDATA[GitHub was honored to contribute to the Santa Clara Principles on Transparency and Accountability in Content Moderation 2.0.]]></summary>
+        <author>
+            <name>Rose Coogan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to leverage security frameworks and libraries for secure code]]></title>
+        <id>https://github.blog/?p=62090</id>
+        <link href="https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/"/>
+        <updated>2021-12-20T17:47:15.000Z</updated>
+        <summary type="html"><![CDATA[In this post, I’ll discuss how to apply OWASP Proactive Control C2: Leverage security frameworks and libraries.]]></summary>
+        <author>
+            <name>Alvaro Munoz</name>
         </author>
     </entry>
     <entry>
