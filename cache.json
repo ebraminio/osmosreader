@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360362",
+          "author": "Chris Coyier",
+          "description": "There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. \n4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/table-of-contents-block-in-wordpress/",
+          "publishedOn": "2022-01-18T23:22:01.000Z",
+          "wordCount": 2503,
+          "title": "4 Quality Options for a Table of Contents Block in WordPress"
+        },
+        {
           "id": "https://css-tricks.com/?p=361001",
           "author": "Adam Rackis",
           "description": "The VitePWA plugin from Anthony Fu is a fantastic tool for your Vite-powered sites. It helps you add a service worker that handles:\noffline support\ncaching assets and content\nprompting the user when new content is available\n…and other goodies!\n…\nMaking a Site Work Offline Using the VitePWA Plugin originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -358,20 +367,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
-          "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
-          "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6030,
-          "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -380,6 +375,87 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61e5c135b837d507ba0a4ad0",
+          "author": null,
+          "description": "The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.",
+          "link": "https://www.freecodecamp.org/news/simplify-asynchronous-javascript-using-the-result-error-pattern/",
+          "publishedOn": "2022-01-18T22:08:11.000Z",
+          "wordCount": 1036,
+          "title": "How to Simplify Asynchronous JavaScript using the Result-Error Pattern"
+        },
+        {
+          "id": "61c1f85b755c160824908ac7",
+          "author": null,
+          "description": "In this article, we'll learn how to set up a CI/CD pipeline with GitHub Actions and AWS. I've divided the guide into three parts to help you work through it: First, we'll cover some important terminology so you're not lost in a bunch of big buzzwords. Second, we'll set",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/",
+          "publishedOn": "2022-01-18T21:26:24.000Z",
+          "wordCount": 4273,
+          "title": "How to Setup a CI/CD Pipeline with GitHub Actions and AWS"
+        },
+        {
+          "id": "61e726bf183181284a1912db",
+          "author": null,
+          "description": "Adjusting, visualizing, and sharing machine learning models can be much easier with a sleek user interface. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Gradio to create intuitive user interfaces for machine learning models. Abdul from 1littlecoder developed this course.",
+          "link": "https://www.freecodecamp.org/news/create-user-interfaces-for-machine-learning-models-using-gradio/",
+          "publishedOn": "2022-01-18T20:56:02.000Z",
+          "wordCount": 356,
+          "title": "Create User Interfaces for Machine Learning Models Using Gradio"
+        },
+        {
+          "id": "61cfee0ea700150888933a10",
+          "author": null,
+          "description": "As a developer, how often have you seen a repository with packages that are out of date? New package updates generally include new features, performance improvements, and security fixes. But keeping track of all outdated dependencies in your project can be really boring and a time consuming task, especially if",
+          "link": "https://www.freecodecamp.org/news/keep-package-dependencies-up-to-date-on-azure-devops/",
+          "publishedOn": "2022-01-18T20:15:51.000Z",
+          "wordCount": 1051,
+          "title": "How to Keep Your Package Dependencies Up to Date on Azure DevOps"
+        },
+        {
+          "id": "61d6289ed2d9de084285cab7",
+          "author": null,
+          "description": "Network applications are computer applications that participate in a computer network. These applications talk to each other by plugging into the network.  For example, when you visit google.com, your browser acts as a network application that leverages the Internet to talk to the network application running on Google's computer.",
+          "link": "https://www.freecodecamp.org/news/computer-networking-how-applications-talk-over-the-internet/",
+          "publishedOn": "2022-01-18T19:54:27.000Z",
+          "wordCount": 3691,
+          "title": "Computer Networking Tutorial – How Network Applications Talk Over the Internet"
+        },
+        {
+          "id": "61db22fcd2d9de084285f551",
+          "author": null,
+          "description": "Data types can be a bit of a mind boggling concept. But as programmers, we use data types everyday – so they're something we should understand.  Question is, how does the computer store these data types? It can't possibly treat every data type the same. In JavaScript, data types are split",
+          "link": "https://www.freecodecamp.org/news/primitive-vs-reference-data-types-in-javascript/",
+          "publishedOn": "2022-01-18T19:24:33.000Z",
+          "wordCount": 1018,
+          "title": "Primitive vs Reference Data Types in JavaScript"
+        },
+        {
+          "id": "61d5c80fd2d9de084285c5f3",
+          "author": null,
+          "description": "This article is about how working as an independent contractor for a web design agency helped me to start my own freelance business.",
+          "link": "https://www.freecodecamp.org/news/working-as-independent-contractor-can-help-start-freelance-business/",
+          "publishedOn": "2022-01-18T19:06:12.000Z",
+          "wordCount": 2913,
+          "title": "How Working as an Independent Contractor Can Help You Start Your Own Freelance Dev Business"
+        },
+        {
+          "id": "61e2a600b837d507ba0a37ee",
+          "author": null,
+          "description": "Patreon is a subscription management system for creators. Although it offers a default button snippet, you can add a custom button that includes your preferred design and call to action to increase your click through rate. In this article you will learn how to create a simple custom Patreon link",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-custom-patreon-button/",
+          "publishedOn": "2022-01-18T15:53:41.000Z",
+          "wordCount": 763,
+          "title": "How to Create a Custom Patreon Button"
+        },
+        {
+          "id": "61cadc1f755c16082490bd7a",
+          "author": null,
+          "description": "If you ask a group of developers what Linux is, most of them will probably say it's an open-source operating system. Those with more technical knowledge will probably call it a kernel. For me, though, Linux is not just an operating system or a kernel. For me, it's freedom. The",
+          "link": "https://www.freecodecamp.org/news/how-to-install-arch-linux/",
+          "publishedOn": "2022-01-18T15:15:23.000Z",
+          "wordCount": 8244,
+          "title": "The Arch Linux Handbook"
+        },
         {
           "id": "61dcd402b837d507ba09f7d7",
           "author": "Madison Kanna",
@@ -477,6 +553,15 @@
       "feedUrl": "https://github.blog/feed/",
       "siteUrl": "https://github.blog",
       "articles": [
+        {
+          "id": "https://github.blog/?p=62454",
+          "author": "Nicole Numrich",
+          "description": "With the successful liftoff of the James Webb Space Telescope, we ask our very own Arfon Smith about the history of open source and space science.",
+          "link": "https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/",
+          "publishedOn": "2022-01-18T17:41:41.000Z",
+          "wordCount": 1727,
+          "title": "How open source is supporting NASA’s new eyes in space"
+        },
         {
           "id": "https://github.blog/?p=62289",
           "author": "Lee Reilly",
