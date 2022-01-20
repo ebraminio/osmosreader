@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360899",
+          "author": "Preethi",
+          "description": "There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.\nBedford Dwellings by Ron Donoughe (2013)\nWe can create the same sort of dappled light effect in …\nA Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/css-dappled-light-effect/",
+          "publishedOn": "2022-01-19T22:46:39.000Z",
+          "wordCount": 1612,
+          "title": "A Serene CSS Dappled Light Effect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359857",
+          "author": "Chris Coyier",
+          "description": "What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?\nWhat should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/whats-new-since-css3/",
+          "publishedOn": "2022-01-19T14:25:31.000Z",
+          "wordCount": 2128,
+          "title": "What should someone learn about CSS if they last boned up during CSS3?"
+        },
+        {
           "id": "https://css-tricks.com/?p=360362",
           "author": "Chris Coyier",
           "description": "There are a number of options for including a Table of Contents lock in WordPress. You can use a plugin, or try to do it yourself. \n4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
@@ -172,6 +190,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).",
+          "link": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
+          "publishedOn": "2022-01-19T11:00:00.000Z",
+          "wordCount": 814,
+          "title": "Upcoming Online Workshops: January &ndash; May 2022",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2022/01/freebie-wayfinding-icon-sets-exhibition-concert-museum/",
           "author": "hello@smashingmagazine.com (Anton Tyschenko)",
@@ -376,6 +408,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61e79b46183181284a191680",
+          "author": null,
+          "description": "A freeCodeCamp alum who founded his own successful Web3 company has donated $1M to freeCodeCampHe asked that we use some of these funds to develop a carbon-neutral Web3 curriculumWe are building an interactive Web3 curriculum where you can learn by building more than a dozen projects. This free curriculum will",
+          "link": "https://www.freecodecamp.org/news/carbon-neutral-web3-curriculum-plans/",
+          "publishedOn": "2022-01-19T21:23:18.000Z",
+          "wordCount": 859,
+          "title": "freeCodeCamp Just Got a Million Dollar Donation from an Alum to Build a Carbon-Neutral Web3 Curriculum"
+        },
+        {
+          "id": "61e78aca183181284a1914a0",
+          "author": null,
+          "description": "I am a freeCodeCamp alumnus. I learned to code on freeCodeCamp. I used these skills to build a profitable company. Today, this company – KaijuKingz – is donating $1 million to freeCodeCamp to help them create even more free learning resources. The freeCodeCamp community has helped me and thousands of other people",
+          "link": "https://www.freecodecamp.org/news/donating-a-million-dollars-to-freecodecamp-a-web3-curriculum/",
+          "publishedOn": "2022-01-19T21:23:10.000Z",
+          "wordCount": 1021,
+          "title": "Donating a Million Dollars to freeCodeCamp to Develop a Free, Carbon-Neutral Web3 Curriculum"
+        },
+        {
+          "id": "61e547e7b837d507ba0a4611",
+          "author": null,
+          "description": "Serverless Development has been around since the release of AWS Lambda in 2014, but in the last few years things have exploded.  Startups and smart tech companies have started taking advantage of the scalability, reliability, and power of serverless to rapidly grow – and now they need more serverless developers than",
+          "link": "https://www.freecodecamp.org/news/become-a-serverless-developer/",
+          "publishedOn": "2022-01-19T20:57:22.000Z",
+          "wordCount": 1968,
+          "title": "How to Become a Serverless Developer in 2022"
+        },
+        {
+          "id": "61e84fda183181284a191b17",
+          "author": null,
+          "description": "Kubernetes is an open-source container orchestration platform that automates the deployment, management, scaling, and networking of containers. It makes it simpler to deploy apps to production. We just published a Kubernetes course on the freeCodeCamp.org YouTube channel.  Bogdan Stashchuk developed this course. He is a popular DevOps instructor who",
+          "link": "https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/",
+          "publishedOn": "2022-01-19T17:58:49.000Z",
+          "wordCount": 22713,
+          "title": "Learn Kubernetes and Start Containerizing Your Applications"
+        },
+        {
+          "id": "61e6d91ab6c2e011aa4ff1c1",
+          "author": null,
+          "description": "msvcp140.dll is a Microsoft C Dynamic Linked Library file responsible for running certain Windows apps and games – especially those built on C++.  Sometimes, when you're trying to open an app or game, you might get the error “the code execution cannot proceed because msvcp140.dll was not found”.  This",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-the-code-execution-cannot-proceed-because-msvcp140-dll-was-not-found/",
+          "publishedOn": "2022-01-19T17:47:26.000Z",
+          "wordCount": 729,
+          "title": "The Code Execution Cannot Proceed Because msvcp140.dll Was Not Found – How to Fix on a Windows 10 PC"
+        },
+        {
+          "id": "61d1f0e7a7001508889342bf",
+          "author": null,
+          "description": "Filter components are useful on websites because they help users find the results they need quickly and easily.  This is especially true if your data comes from an API, since users cannot look through everything your app has to offer. In this article, we will be using dummy data that",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/",
+          "publishedOn": "2022-01-19T16:48:00.000Z",
+          "wordCount": 1900,
+          "title": "How to Make a Filter Component in React"
+        },
+        {
+          "id": "61e158e5b837d507ba0a263e",
+          "author": null,
+          "description": "HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those",
+          "link": "https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/",
+          "publishedOn": "2022-01-18T22:40:00.000Z",
+          "wordCount": 2842,
+          "title": "How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid"
+        },
+        {
           "id": "61e5c135b837d507ba0a4ad0",
           "author": null,
           "description": "The Result-Error Pattern helps you hide try-catch blocks, simplify error handling, and encapsulate cleanup operations.",
@@ -554,6 +649,15 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=62472",
+          "author": "Jose Palafox",
+          "description": "We’re excited to announce the V4 release of the OpenSSF’s Scorecard project in partnership with Google.",
+          "link": "https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/",
+          "publishedOn": "2022-01-19T15:00:02.000Z",
+          "wordCount": 644,
+          "title": "Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4"
+        },
+        {
           "id": "https://github.blog/?p=62454",
           "author": "Nicole Numrich",
           "description": "With the successful liftoff of the James Webb Space Telescope, we ask our very own Arfon Smith about the history of open source and space science.",
@@ -633,15 +737,6 @@
           "publishedOn": "2021-12-21T17:55:56.000Z",
           "wordCount": 1162,
           "title": "How GitHub contributed to the Santa Clara Principles update"
-        },
-        {
-          "id": "https://github.blog/?p=62090",
-          "author": "Alvaro Munoz",
-          "description": "In this post, I’ll discuss how to apply OWASP Proactive Control C2: Leverage security frameworks and libraries.",
-          "link": "https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/",
-          "publishedOn": "2021-12-20T17:47:15.000Z",
-          "wordCount": 2209,
-          "title": "How to leverage security frameworks and libraries for secure code"
         }
       ]
     }

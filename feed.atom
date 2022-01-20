@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ebraminio.github.io/osmosreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T00:25:45.930Z</updated>
+    <updated>2022-01-20T00:31:20.538Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ebraminio.github.io/osmosreader/index.html"/>
     <link rel="self" href="https://ebraminio.github.io/osmosreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Serene CSS Dappled Light Effect]]></title>
+        <id>https://css-tricks.com/?p=360899</id>
+        <link href="https://css-tricks.com/css-dappled-light-effect/"/>
+        <updated>2022-01-19T22:46:39.000Z</updated>
+        <summary type="html"><![CDATA[There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.
+Bedford Dwellings by Ron Donoughe (2013)
+We can create the same sort of dappled light effect in …
+A Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Just Got a Million Dollar Donation from an Alum to Build a Carbon-Neutral Web3 Curriculum]]></title>
+        <id>61e79b46183181284a191680</id>
+        <link href="https://www.freecodecamp.org/news/carbon-neutral-web3-curriculum-plans/"/>
+        <updated>2022-01-19T21:23:18.000Z</updated>
+        <summary type="html"><![CDATA[A freeCodeCamp alum who founded his own successful Web3 company has donated $1M to freeCodeCampHe asked that we use some of these funds to develop a carbon-neutral Web3 curriculumWe are building an interactive Web3 curriculum where you can learn by building more than a dozen projects. This free curriculum will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donating a Million Dollars to freeCodeCamp to Develop a Free, Carbon-Neutral Web3 Curriculum]]></title>
+        <id>61e78aca183181284a1914a0</id>
+        <link href="https://www.freecodecamp.org/news/donating-a-million-dollars-to-freecodecamp-a-web3-curriculum/"/>
+        <updated>2022-01-19T21:23:10.000Z</updated>
+        <summary type="html"><![CDATA[I am a freeCodeCamp alumnus. I learned to code on freeCodeCamp. I used these skills to build a profitable company. Today, this company – KaijuKingz – is donating $1 million to freeCodeCamp to help them create even more free learning resources. The freeCodeCamp community has helped me and thousands of other people]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Serverless Developer in 2022]]></title>
+        <id>61e547e7b837d507ba0a4611</id>
+        <link href="https://www.freecodecamp.org/news/become-a-serverless-developer/"/>
+        <updated>2022-01-19T20:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Serverless Development has been around since the release of AWS Lambda in 2014, but in the last few years things have exploded.  Startups and smart tech companies have started taking advantage of the scalability, reliability, and power of serverless to rapidly grow – and now they need more serverless developers than]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Kubernetes and Start Containerizing Your Applications]]></title>
+        <id>61e84fda183181284a191b17</id>
+        <link href="https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/"/>
+        <updated>2022-01-19T17:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes is an open-source container orchestration platform that automates the deployment, management, scaling, and networking of containers. It makes it simpler to deploy apps to production. We just published a Kubernetes course on the freeCodeCamp.org YouTube channel.  Bogdan Stashchuk developed this course. He is a popular DevOps instructor who]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Code Execution Cannot Proceed Because msvcp140.dll Was Not Found – How to Fix on a Windows 10 PC]]></title>
+        <id>61e6d91ab6c2e011aa4ff1c1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-the-code-execution-cannot-proceed-because-msvcp140-dll-was-not-found/"/>
+        <updated>2022-01-19T17:47:26.000Z</updated>
+        <summary type="html"><![CDATA[msvcp140.dll is a Microsoft C Dynamic Linked Library file responsible for running certain Windows apps and games – especially those built on C++.  Sometimes, when you're trying to open an app or game, you might get the error “the code execution cannot proceed because msvcp140.dll was not found”.  This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Filter Component in React]]></title>
+        <id>61d1f0e7a7001508889342bf</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-filter-component-in-react/"/>
+        <updated>2022-01-19T16:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Filter components are useful on websites because they help users find the results they need quickly and easily.  This is especially true if your data comes from an API, since users cannot look through everything your app has to offer. In this article, we will be using dummy data that]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing security risk in open source software with GitHub Actions and OpenSSF Scorecards V4]]></title>
+        <id>https://github.blog/?p=62472</id>
+        <link href="https://github.blog/2022-01-19-reducing-security-risk-oss-actions-opensff-scorecards-v4/"/>
+        <updated>2022-01-19T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce the V4 release of the OpenSSF’s Scorecard project in partnership with Google.]]></summary>
+        <author>
+            <name>Jose Palafox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What should someone learn about CSS if they last boned up during CSS3?]]></title>
+        <id>https://css-tricks.com/?p=359857</id>
+        <link href="https://css-tricks.com/whats-new-since-css3/"/>
+        <updated>2022-01-19T14:25:31.000Z</updated>
+        <summary type="html"><![CDATA[What's new in CSS? If someone asked you that, who knows CSS but hasn't stayed up to date the last, say, half a decade or more, what advice would you give?
+What should someone learn about CSS if they last boned up during CSS3? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Online Workshops: January &ndash; May 2022]]></title>
+        <id>https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/</id>
+        <link href="https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/"/>
+        <updated>2022-01-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Quality Options for a Table of Contents Block in WordPress]]></title>
         <id>https://css-tricks.com/?p=360362</id>
@@ -15,6 +119,16 @@
 4 Quality Options for a Table of Contents Block in WordPress originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Static HTML Table to a Dynamic JavaScript Data Grid]]></title>
+        <id>61e158e5b837d507ba0a263e</id>
+        <link href="https://www.freecodecamp.org/news/convert-html-table-to-dynamic-javascript-data-grid/"/>
+        <updated>2022-01-18T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML Tables are simple to use for rendering small amounts of data. But they can be hard for users to work with when they display a lot of data.  Features like sorting, filtering, and pagination make it easier to work with many rows of data. We can easily implement those]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -629,16 +743,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[GitHub was honored to contribute to the Santa Clara Principles on Transparency and Accountability in Content Moderation 2.0.]]></summary>
         <author>
             <name>Rose Coogan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to leverage security frameworks and libraries for secure code]]></title>
-        <id>https://github.blog/?p=62090</id>
-        <link href="https://github.blog/2021-12-20-how-to-leverage-security-frameworks-and-libraries-for-secure-code/"/>
-        <updated>2021-12-20T17:47:15.000Z</updated>
-        <summary type="html"><![CDATA[In this post, I’ll discuss how to apply OWASP Proactive Control C2: Leverage security frameworks and libraries.]]></summary>
-        <author>
-            <name>Alvaro Munoz</name>
         </author>
     </entry>
 </feed>
