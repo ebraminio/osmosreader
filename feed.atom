@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ebraminio.github.io/osmosreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T00:31:20.538Z</updated>
+    <updated>2022-01-21T00:25:43.916Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://ebraminio.github.io/osmosreader/index.html"/>
     <link rel="self" href="https://ebraminio.github.io/osmosreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI]]></title>
+        <id>61e95a08183181284a1922e8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-format-storage-disk-in-windows-gui-cli/"/>
+        <updated>2022-01-20T20:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destructuring in JavaScript – How to Destructure Arrays and Objects]]></title>
+        <id>61e940e8183181284a19209d</id>
+        <link href="https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/"/>
+        <updated>2022-01-20T18:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Working with JavaScript arrays and objects can be more fun if you destructure them. This helps when you're fetching stored data. In this article, you will learn how you can take destructuring to the next level in JavaScript arrays and objects. Table of contents:What is an array?What is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source creates value, but how do you measure it?]]></title>
+        <id>https://github.blog/?p=62495</id>
+        <link href="https://github.blog/2022-01-20-open-source-creates-value-but-how-do-you-measure-it/"/>
+        <updated>2022-01-20T16:58:28.000Z</updated>
+        <summary type="html"><![CDATA[When digital infrastructure is overlooked by governments, it isn't just a missed opportunity: policies may inadvertently endanger open source collaboration.]]></summary>
+        <author>
+            <name>Peter Cihon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Index Out of Range – Python Error Message Solved]]></title>
+        <id>61e30fbfb837d507ba0a3b8f</id>
+        <link href="https://www.freecodecamp.org/news/list-index-out-of-range-python-error-message-solved/"/>
+        <updated>2022-01-20T16:03:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article you'll see a few of the reasons that cause the list index out of range Python error.  Besides knowing why this error occurs in the first place, you'll also learn some ways to avoid it.  Let's get started!  How to Create a List in Python To create]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Define Cloud Infrastructure with the AWS Cloud Development Kit]]></title>
+        <id>61e981bd183181284a1925ba</id>
+        <link href="https://www.freecodecamp.org/news/aws-cloud-development-kit-crash-course/"/>
+        <updated>2022-01-20T15:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Instead of setting up your cloud infrastructure manually, it can be easier and safer to use code. The AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. We just published a crash course on the freeCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Beginner’s Guide to npm]]></title>
+        <id>https://css-tricks.com/?p=361210</id>
+        <link href="https://css-tricks.com/a-complete-beginners-guide-to-npm/"/>
+        <updated>2022-01-20T15:07:32.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I remember vividly a period early in my coding career when I began to feel that things were changing away from what I knew, and headed towards a more complex set of tools and …
+A Complete Beginner’s Guide to npm originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck Does “npm” Mean?]]></title>
+        <id>https://css-tricks.com/?p=361214</id>
+        <link href="https://css-tricks.com/a-clear-definition-of-npm-and-what-it-does/"/>
+        <updated>2022-01-20T15:04:15.000Z</updated>
+        <summary type="html"><![CDATA[One of the things that makes this new, tooling-heavy era of front-end development so seemingly hard to understand at first is that, while we often call things by a singular name, they tend to be actually comprised of several different …
+What the Heck Does “npm” Mean? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck is the Command Line?]]></title>
+        <id>https://css-tricks.com/?p=361226</id>
+        <link href="https://css-tricks.com/a-deep-look-at-the-command-line/"/>
+        <updated>2022-01-20T15:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Now that we know what npm stands for and have a super general idea of what it does and how it fits into web development, we ought to spend a little bit of time looking at the command line, because …
+What the Heck is the Command Line? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck is Node?]]></title>
+        <id>https://css-tricks.com/?p=361241</id>
+        <link href="https://css-tricks.com/node-and-how-it-works-with-npm/"/>
+        <updated>2022-01-20T15:04:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Here’s what you need to know about Node.js (or simply Node) and how it relates to npm right off the bat:
+Node is JavaScript, but as a server-side language.
+This is possible because of 
+…
+What the Heck is Node? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck is a Package Manager?]]></title>
+        <id>https://css-tricks.com/?p=361257</id>
+        <link href="https://css-tricks.com/what-the-heck-is-a-package-manager/"/>
+        <updated>2022-01-20T15:03:59.000Z</updated>
+        <summary type="html"><![CDATA[If you’re keeping score, so far in this npm guide we’ve developed a general understanding of what npm is—notably, that it stands for Node Package Manager. In the process, we’ve discussed the importance of the command line and how it’s …
+What the Heck is a Package Manager? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Heck Do You Install npm?]]></title>
+        <id>https://css-tricks.com/?p=361270</id>
+        <link href="https://css-tricks.com/how-to-install-npm-node-nvm/"/>
+        <updated>2022-01-20T15:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …
+How the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Heck Do You Install npm Packages?]]></title>
+        <id>https://css-tricks.com/?p=361300</id>
+        <link href="https://css-tricks.com/how-to-install-npm-packages/"/>
+        <updated>2022-01-20T15:03:49.000Z</updated>
+        <summary type="html"><![CDATA[By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …
+How the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Heck Are npm Commands?]]></title>
+        <id>https://css-tricks.com/?p=361320</id>
+        <link href="https://css-tricks.com/what-the-heck-are-npm-commands/"/>
+        <updated>2022-01-20T15:03:44.000Z</updated>
+        <summary type="html"><![CDATA[npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …
+What the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Heck Do You Install an Existing npm Project?]]></title>
+        <id>https://css-tricks.com/?p=361337</id>
+        <link href="https://css-tricks.com/how-to-install-an-npm-project/"/>
+        <updated>2022-01-20T15:03:35.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+We’ve gotten a good overview of how npm works and how to use it to install packages and run commands at this point. Now let’s go a little further and see what it looks …
+How the Heck Do You Install an Existing npm Project? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Josh Collinsworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building The Real App With React Query]]></title>
+        <id>https://smashingmagazine.com/2022/01/building-real-app-react-query/</id>
+        <link href="https://smashingmagazine.com/2022/01/building-real-app-react-query/"/>
+        <updated>2022-01-20T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Georgii Perepecho)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Serene CSS Dappled Light Effect]]></title>
         <id>https://css-tricks.com/?p=360899</id>
@@ -723,26 +888,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alyssa Holland)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful UX Guidelines, Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/</id>
-        <link href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"/>
-        <updated>2021-12-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How GitHub contributed to the Santa Clara Principles update]]></title>
-        <id>https://github.blog/?p=62205</id>
-        <link href="https://github.blog/2021-12-21-how-github-contributed-santa-clara-principles-update/"/>
-        <updated>2021-12-21T17:55:56.000Z</updated>
-        <summary type="html"><![CDATA[GitHub was honored to contribute to the Santa Clara Principles on Transparency and Accountability in Content Moderation 2.0.]]></summary>
-        <author>
-            <name>Rose Coogan</name>
         </author>
     </entry>
 </feed>
